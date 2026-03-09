@@ -3,7 +3,7 @@
   "slug": "ai-company",
   "displayName": "AI Company",
   "latest": {
-    "version": "2.0.0",
-    "description": "真实 AI 公司运营系统 - 真实 GitHub 扫描、真实监控、真实销售"
+    "version": "2.1.0",
+    "description": "OpenClaw AI 原生版 - 无需外部 API，利用 OpenClaw AI 做决策"
   }
 }
